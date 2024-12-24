@@ -7,6 +7,7 @@ Frontend Developer
 I am a frontend developer who loves React and Vue. I have a keen eye in centric user designs and am passionate about making web platforms lively.
 
 * 🌍  I'm based in Nairobi, Kenya
+* 🖥️  See my portfolio at [My Portfolio](http://portfolio-gq4o.onrender.com/)
 * ✉️  You can contact me at [trevismurithi@gmail.com](mailto:trevismurithi@gmail.com)
 
 <a href="https://www.github.com/trevismurithi" target="_blank" rel="noreferrer"><img
